@@ -8,4 +8,5 @@ AizenDove
 raycast
 rayqlona
 Cuooo
+Jerome Smith
 
